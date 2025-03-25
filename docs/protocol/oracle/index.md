@@ -21,6 +21,7 @@ Here are lists of all on-chain Oracles:
 - [Band Protocol](/protocol/oracle/band-protocol)
 - [RedStone Oracles](/protocol/oracle/redstone)
 - [Celo Reserve Oracles](/protocol/stability/oracles)
+- [Quex oracles](/protocol/oracle/quex-oracles)
 - [Supra](https://supraoracles.com/)
 - [Chainlink, Price Feed Oracles](https://docs.chain.link/data-feeds/price-feeds/addresses?network=celo)
 - [Pyth Network](https://pyth.network/)
